@@ -1,8 +1,12 @@
 # Skills 
 
 * Ruby
+* Rails
+* JavaScript
+* Python
 * C 
 * C++
+* Java
 * HTML
 * CSS
 
